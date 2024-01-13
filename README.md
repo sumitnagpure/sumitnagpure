@@ -8,10 +8,6 @@
 
 ## 3. Profile View Counter           
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)
-        
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sumitnagpure/sumitnagpure)
-
 
     
     
