@@ -1,10 +1,51 @@
-### Hi there 👋
-### Skills
-- Programming languages: Python, JavaScript, Java
-- Web development: HTML, CSS
+# Hello, I'm [Your Name]
 
-### Connect with Me
+## 🚀 Experience
+
+### Data Science Intern | xScientist Tech LLP | September 2023 - Present | Aurangabad
+- Collaborated on 3+ real-world projects with experienced developers.
+- Assisted in 10+ data science & backend development tasks, including UI improvements and logic.
+- Learned and applied data science & backend development best practices.
+- Actively participated in daily brainstorming sessions and code reviews.
+
+### RPA Developer | ABW IT Solutions | March 2023 - May 2023 | Aurangabad
+- Designed and implemented RPA solutions, automating 2 business processes.
+- Wrote scripts and workflows to automate tasks for clients.
+- Monitored and maintained Robotic Process Automation (RPA) solutions.
+
+### Apprentice | CKM Vigil Pvt. Ltd. | January 2022 - March 2023 | Aurangabad
+- Aided in creating a comprehensive Dental OPG dataset.
+- Identified diverse Dental diseases using advanced Computer Vision Techniques for over 4000 cases.
+- Conducted thorough Exploratory Data Analysis (EDA) on the dataset, reducing paperwork by 75%.
+- Employed advanced image processing techniques for cropping, segregating, and optimizing ROI.
+
+## 🎓 Education
+
+- Bachelor of Technology in Artificial Intelligence & Data Science | CSMSS Chh. Shahu College of Engineering, Aurangabad | 2024
+- Diploma in Computer Technology | Government Polytechnic, Bramhapuri, Chandrapur | 2021
+
+## 🏆 Certifications
+
+- SQL | HackerRank
+- Data Analytics in Python | NPTEL, 2023
+
+## 💼 Involvement
+
+- President | CSMSS Chh. Shahu College of Engineering • AI&DS Student Association | March 2022 - Present
+  - Orchestrated 10+ impactful events with collaboration from the Association.
+  - Cultivated a dynamic community for 250+ AI&DS students, implementing engaging initiatives.
+  - Secured funding for essential resources required in events.
+
+## 💻 Skills
+
+- **Programming and Data Analysis:** Python, R, SQL, OpenCV, Numpy, Pandas, Machine learning, Java
+- **Front End:** HTML, CSS, JavaScript
+- **Microsoft Office Suite:** PowerPoint, Word, Excel
+- **Soft Skills:** Analysis, Project management, English (Language proficiency), Communication, Leadership
+
+## 📫 Connect with Me
 [Email](mailto:sumitnagpure28@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumitnagpure/) 
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sumitnagpure&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnagpure&theme=blue-green)
