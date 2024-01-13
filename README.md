@@ -1,12 +1,13 @@
 ### Hi there 👋
-## 1. GitHub Stats        
+### Skills
+- Programming languages: Python, JavaScript, Java
+- Web development: HTML, CSS
+
+### Connect with Me
+[Email](mailto:sumitnagpure28@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumitnagpure/) 
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sumitnagpure&show_icons=true)
-
-
-## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnagpure&theme=blue-green)
-
-## 3. Profile View Counter           
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)
 
     
