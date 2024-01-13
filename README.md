@@ -10,7 +10,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)
         
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = [My_Git-Hub Repository](https://github.com/sumitnagpure/sumitnagpure))
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sumitnagpure/sumitnagpure)
 
 
     
