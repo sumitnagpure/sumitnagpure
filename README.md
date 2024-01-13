@@ -6,10 +6,9 @@
 ### Connect with Me
 [Email](mailto:sumitnagpure28@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumitnagpure/) 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sumitnagpure&show_icons=false)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sumitnagpure&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnagpure&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)
+<!--![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)-->
 
     
     
