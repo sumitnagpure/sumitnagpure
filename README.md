@@ -1,8 +1,20 @@
 ### Hi there 👋
-        
+## 1. GitHub Stats        
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sumitnagpure&show_icons=true)
 
 
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnagpure&theme=blue-green)
+
+## 3. Profile View Counter           
+![Profile View Counter](https://komarev.com/ghpvc/?username=sumitnagpure)
+        
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = [My_Git-Hub Repository](https://github.com/sumitnagpure/sumitnagpure))
+
+
+    
+    
 <!--
 **sumitnagpure/sumitnagpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
