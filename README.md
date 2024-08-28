@@ -8,11 +8,6 @@
 - Learned and applied data science & backend development best practices.
 - Actively participated in daily brainstorming sessions and code reviews.
 
-### RPA Developer | ABW IT Solutions | March 2023 - May 2023 | Aurangabad
-- Designed and implemented RPA solutions, automating 2 business processes.
-- Wrote scripts and workflows to automate tasks for clients.
-- Monitored and maintained Robotic Process Automation (RPA) solutions.
-
 ### Apprentice | CKM Vigil Pvt. Ltd. | January 2022 - March 2023 | Aurangabad
 - Aided in creating a comprehensive Dental OPG dataset.
 - Identified diverse Dental diseases using advanced Computer Vision Techniques for over 4000 cases.
