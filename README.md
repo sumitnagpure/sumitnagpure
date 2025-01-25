@@ -3,10 +3,10 @@
 ## 🚀 Experience
 
 ### Data Science Intern | xScientist Tech LLP | September 2023 - Present | Aurangabad
-- Collaborated on 3+ real-world projects with experienced developers.
-- Assisted in 10+ data science & backend development tasks, including UI improvements and logic.
-- Learned and applied data science & backend development best practices.
-- Actively participated in daily brainstorming sessions and code reviews.
+- Collaborated with experienced developers on 3+ projects using Python and Django Rest API.
+- Assisted in 10+ data science and back-end development projects, mainly using Django.
+- Actively contributed to daily brainstorming sessions, offering technical insights and strategic solutions.
+- Supported project management by tracking timelines, coordinating tasks, and ensuring smooth collaboration during development.
 
 ## 🎓 Education
 
