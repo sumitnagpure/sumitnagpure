@@ -8,12 +8,6 @@
 - Learned and applied data science & backend development best practices.
 - Actively participated in daily brainstorming sessions and code reviews.
 
-### Apprentice | CKM Vigil Pvt. Ltd. | January 2022 - March 2023 | Aurangabad
-- Aided in creating a comprehensive Dental OPG dataset.
-- Identified diverse Dental diseases using advanced Computer Vision Techniques for over 4000 cases.
-- Conducted thorough Exploratory Data Analysis (EDA) on the dataset, reducing paperwork by 75%.
-- Employed advanced image processing techniques for cropping, segregating, and optimizing ROI.
-
 ## 🎓 Education
 
 - Bachelor of Technology in Artificial Intelligence & Data Science | CSMSS Chh. Shahu College of Engineering, Aurangabad | 2024
